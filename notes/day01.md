@@ -133,7 +133,7 @@ Persian : مسیر کامل پوشه‌ای که الان در آن هستید �
 #### ​3.What did I do without AI today?
 ​Persian : نوشتن کدهای تمرینی که ۸ تا تمرین بود، همه را بدون AI انجام دادم.
 
-​English : Writing the practice code—there were 8 exercises, and I did all of them without AI.
+​English : Writing the practice code there were 8 exercises, and I did all of them without AI.
 
 #### ​4.What should I improve tomorrow?
 ​Persian : باید بتوانم زمانم را مدیریت کنم که همه کارهایم را بتوانم انجام دهم.
