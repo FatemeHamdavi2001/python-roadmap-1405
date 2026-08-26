@@ -1,0 +1,5 @@
+First_name = input("Enter your first name: ")
+Last_name = input("Enter your last name: ")
+Birth_year = int(input("Enter your birth year: "))
+username = First_name.lower() + '_' + Last_name[0].lower() + '_' + str(Birth_year)
+print(username)
