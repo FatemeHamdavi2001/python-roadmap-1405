@@ -1,0 +1,6 @@
+text = input("Enter text: ")
+print("Clean text:", text.strip())
+print("Lowercase:", text.lower())
+print("Length:", len(text))
+print("First character:", text[0])
+print("Last character:", text[-1])

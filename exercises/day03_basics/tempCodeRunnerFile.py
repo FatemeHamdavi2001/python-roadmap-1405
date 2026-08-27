@@ -1,0 +1,5 @@
+email = input("Enter email: ")
+index = email.find("@")
+print("Email: ", email)
+print("Username: ", email[:index])
+print("Domain: ", email[index])
